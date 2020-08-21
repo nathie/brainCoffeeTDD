@@ -1,2 +1,3 @@
 # brainCoffeeTDD
-Beginners TDD and React (Pluralsight)
+
+Beginners TDD and React from Pluralsight
