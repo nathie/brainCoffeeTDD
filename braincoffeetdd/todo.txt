@@ -1,0 +1,6 @@
+1. Btn for each store location
+2. Store btn should display the name of the location
+3. Click btn passes a value to a function
+4. A map chooser function returns an image file name based on input given to input
+5. When no input is given to map chooser funct, returns a default img file name
+6. When bad input "", - returns a default image file name
